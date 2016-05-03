@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiusflaccu07flacgoog_0010.png"; bbox 0 0 2738 4372; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 365 1417 1067 1501">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 365 1417 1067 1501">
+     <span class='ocr_line' id='line_1_1' title="bbox 365 1417 1067 1501; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 365 1421 454 1500; x_wconf 80' lang='lat' dir='ltr'><strong>DEM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 475 1417 836 1501; x_wconf 79' lang='lat' dir='ltr'>UNVERGESSLIGHEN</span> <span class='ocrx_word' id='word_1_3' title='bbox 857 1421 1067 1501; x_wconf 77' lang='lat' dir='ltr'><strong>ANDENKEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 212 1808 1196 1905">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 212 1808 1196 1905">
+     <span class='ocr_line' id='line_1_2' title="bbox 212 1808 1196 1905; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 212 1810 522 1905; x_wconf 82' lang='lat' dir='ltr'>MEINES</span> <span class='ocrx_word' id='word_1_5' title='bbox 563 1808 868 1896; x_wconf 76' lang='lat' dir='ltr'>TEUREN</span> <span class='ocrx_word' id='word_1_6' title='bbox 910 1809 1196 1897; x_wconf 83' lang='lat' dir='ltr'>OHEIMS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 431 2200 1003 2304">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 431 2200 1003 2304">
+     <span class='ocr_line' id='line_1_3' title="bbox 431 2200 1003 2304; baseline -0.003 0"><span class='ocrx_word' id='word_1_7' title='bbox 431 2201 661 2304; x_wconf 77' lang='lat' dir='ltr'>GUSTAV</span> <span class='ocrx_word' id='word_1_8' title='bbox 690 2200 1003 2303; x_wconf 77' lang='lat' dir='ltr'><strong>KIESSLING.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1374 4372">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1374 4372">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1374 4372; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1374 4372; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
